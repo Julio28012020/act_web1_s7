@@ -1,0 +1,1595 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 15962
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 785.1970866141732586 Td
+(Reporte de Evaluación - Fork de GitHub) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+39.6850393700787407 747.3545669291338527 Td
+(Información General) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+39.6850393700787407 724.0159842519684616 Td
+(Estudiante: David Quiroz Gonzalez) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+39.6850393700787407 708.346692913385823 Td
+(Repositorio: Strikys12/act_web1_s7) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+39.6850393700787407 692.6774015748030706 Td
+(Fecha de evaluación: 11/9/2025, 14:13:42) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+39.6850393700787407 677.0081102362204319 Td
+(Evaluado por: Sistema de Evaluación Masiva) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+39.6850393700787407 647.1655905511810261 Td
+(Resumen de Calificaciones) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+39.6850393700787407 623.827007874015635 Td
+(Calificación general: 3.4/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+39.6850393700787407 608.1577165354329964 Td
+(Actividades completadas: 9/10) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+39.6850393700787407 592.4884251968503577 Td
+(Porcentaje de completitud: 90.0%) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+39.6850393700787407 562.6459055118109518 Td
+(Detalle de Actividades) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+39.6850393700787407 530.8033858267716596 42.5196850393700814 -20.3499999999999979 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+44.6850393700787478 518.1533858267716823 Td
+(#) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+82.2047244094488292 530.8033858267716596 170.0787401574803255 -20.3499999999999979 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+87.2047244094488292 518.1533858267716823 Td
+(Descripción) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+252.2834645669291547 530.8033858267716596 141.7322834645669332 -20.3499999999999979 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+257.2834645669291262 518.1533858267716823 Td
+(Archivo) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+394.0157480314961163 530.8033858267716596 70.8661417322834666 -20.3499999999999979 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+399.0157480314961163 518.1533858267716823 Td
+(Encontrado) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+464.8818897637795544 530.8033858267716596 70.8661417322834666 -20.3499999999999979 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+469.8818897637795544 518.1533858267716823 Td
+(Calificación) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 510.4533858267716369 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 498.6533858267716255 Td
+(1) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 510.4533858267716369 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 498.6533858267716255 Td
+(Gestión de Inventario Básico - Crea un a...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 510.4533858267716369 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 498.6533858267716255 Td
+(ejercicios/ejercicio_01.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 510.4533858267716369 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 498.6533858267716255 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 510.4533858267716369 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 498.6533858267716255 Td
+(4.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 491.2533858267715914 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 479.4533858267716369 Td
+(2) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 491.2533858267715914 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 479.4533858267716369 Td
+(Filtrado de Productos por Categoría - Us...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 491.2533858267715914 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 479.4533858267716369 Td
+(ejercicios/ejercicio_02.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 491.2533858267715914 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 479.4533858267716369 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 491.2533858267715914 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 479.4533858267716369 Td
+(4.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 472.0533858267716596 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 460.2533858267717051 Td
+(3) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 472.0533858267716596 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 460.2533858267717051 Td
+(Transformación de Datos con map\(\) - Crea...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 472.0533858267716596 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 460.2533858267717051 Td
+(ejercicios/ejercicio_03.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 472.0533858267716596 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 460.2533858267717051 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 472.0533858267716596 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 460.2533858267717051 Td
+(4.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 452.8533858267716141 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 441.0533858267716596 Td
+(4) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 452.8533858267716141 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 441.0533858267716596 Td
+(Análisis de Ventas con reduce\(\) - Dado u...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 452.8533858267716141 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 441.0533858267716596 Td
+(ejercicios/ejercicio_04.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 452.8533858267716141 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 441.0533858267716596 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 452.8533858267716141 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 441.0533858267716596 Td
+(3.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 433.6533858267716255 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 421.853385826771671 Td
+(5) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 433.6533858267716255 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 421.853385826771671 Td
+(Búsqueda y Verificación - Crea un array ...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 433.6533858267716255 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 421.853385826771671 Td
+(ejercicios/ejercicio_05.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 433.6533858267716255 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 421.853385826771671 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 433.6533858267716255 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 421.853385826771671 Td
+(3.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 414.45338582677158 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 402.6533858267716255 Td
+(6) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 414.45338582677158 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 402.6533858267716255 Td
+(Manipulación de Arrays - Crea un array i...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 414.45338582677158 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 402.6533858267716255 Td
+(ejercicios/ejercicio_06.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 414.45338582677158 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 402.6533858267716255 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 414.45338582677158 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 402.6533858267716255 Td
+(4.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 395.2533858267715345 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 383.4533858267716369 Td
+(7) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 395.2533858267715345 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 383.4533858267716369 Td
+(Ordenamiento y Reversión - Crea arrays d...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 395.2533858267715345 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 383.4533858267716369 Td
+(ejercicios/ejercicio_07.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 395.2533858267715345 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 383.4533858267716369 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 395.2533858267715345 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 383.4533858267716369 Td
+(3.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 376.0533858267715459 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 364.2533858267715914 Td
+(8) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 376.0533858267715459 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 364.2533858267715914 Td
+(Desestructuración de Arrays - Dado el ar...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 376.0533858267715459 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 364.2533858267715914 Td
+(ejercicios/ejercicio_08.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 376.0533858267715459 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 364.2533858267715914 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 376.0533858267715459 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 364.2533858267715914 Td
+(5.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 356.8533858267715004 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 345.0533858267715459 Td
+(9) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 356.8533858267715004 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 345.0533858267715459 Td
+(Desestructuración de Objetos - Crea un o...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 356.8533858267715004 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 345.0533858267715459 Td
+(ejercicios/ejercicio_09.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 356.8533858267715004 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 345.0533858267715459 Td
+(Sí) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 356.8533858267715004 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 345.0533858267715459 Td
+(4.0) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+39.6850393700787407 337.6533858267715118 42.5196850393700814 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+44.6850393700787478 325.8533858267715004 Td
+(10) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+82.2047244094488292 337.6533858267715118 170.0787401574803255 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+87.2047244094488292 325.8533858267715004 Td
+(Métodos de Objeto - Crea un objeto y dem...) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+252.2834645669291547 337.6533858267715118 141.7322834645669332 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+257.2834645669291262 325.8533858267715004 Td
+(ejercicios/ejercicio_10.js) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+394.0157480314961163 337.6533858267715118 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+399.0157480314961163 325.8533858267715004 Td
+(No) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+464.8818897637795544 337.6533858267715118 70.8661417322834666 -19.1999999999999957 re
+B
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+469.8818897637795544 325.8533858267715004 Td
+(0.0) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+39.6850393700787407 290.1069291338581024 Td
+(Retroalimentación Detallada) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 258.2644094488188102 Td
+(Actividad 1: Gestión de Inventario Básico - Crea un array de objetos que represente un inventario de) Tj
+T* (productos. Cada producto debe tener: id, nombre, precio, categoria, stock. Declara al menos 5 productos y) Tj
+T* (muestra todos los productos, total de productos en inventario y valor total del inventario.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 219.5951181102360579 Td
+(Archivo esperado: ejercicios/ejercicio_01.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 203.9258267716534192 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 188.2565354330706668 Td
+(Calificación: 4.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 172.5872440944880282 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 156.9179527559053895 Td
+(La solución es correcta y funcional, pero se puede mejorar la eficiencia en el cálculo del total del inventario. Utilizar) Tj
+T* (`reduce` directamente sobre el `inventario` para calcular el valor total y el total de stock sería más eficiente y) Tj
+T* (legible.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+510.2406299212597673 28.3464566929134207 Td
+(Página 1 de 3) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+39.6850393700787407 28.3464566929134207 Td
+(Generado por Sistema de Evaluación IA) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 5884
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 785.1970866141732586 Td
+(Actividad 2: Filtrado de Productos por Categoría - Usando el inventario del ejercicio anterior, utiliza el) Tj
+T* (método filter\(\) para mostrar solo productos de la categoría 'Electrónicos', productos con stock menor a 10) Tj
+T* (y productos con precio mayor a $500.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 746.5277952755905062 Td
+(Archivo esperado: ejercicios/ejercicio_02.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 730.8585039370078675 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 715.1892125984252289 Td
+(Calificación: 4.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 699.5199212598424765 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 683.8506299212598378 Td
+(La lógica de filtrado es correcta y el código funciona. Se debe prestar atención a los nombres de las variables) Tj
+T* (\(catLacteos, menor, mayor\) para que sean más descriptivos. Además, la descripción de la actividad solicitaba filtrar) Tj
+T* (por 'Electrónicos' en lugar de 'lacteos'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 636.6774015748030706 Td
+(Actividad 3: Transformación de Datos con map\(\) - Crea un array de estudiantes con nombre, edad, notas) Tj
+T* (\(array de números\). Usa map\(\) para crear un nuevo array con solo los nombres, crear un array con el) Tj
+T* (promedio de cada estudiante y agregar una propiedad estado \('Aprobado' si promedio >= 70, 'Reprobado') Tj
+T* (si < 70\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 586.5081102362204319 Td
+(Archivo esperado: ejercicios/ejercicio_03.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 570.8388188976377933 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 555.1695275590550409 Td
+(Calificación: 4.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 539.5002362204725159 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 523.8309448818897636 Td
+(La solución es correcta y funcional. Sin embargo, podrías agregar la propiedad 'estado' directamente dentro del) Tj
+T* (segundo `map` para evitar el bucle `for`, mejorando la eficiencia y legibilidad del código.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 488.15771653543311 Td
+(Actividad 4: Análisis de Ventas con reduce\(\) - Dado un array de ventas con producto, cantidad, precio,) Tj
+T* (fecha. Usa reduce\(\) para calcular total de ingresos, producto más vendido \(por cantidad\) y promedio de) Tj
+T* (venta por transacción.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 449.4884251968503577 Td
+(Archivo esperado: ejercicios/ejercicio_04.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 433.819133858267719 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 418.1498425196850803 Td
+(Calificación: 3.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 402.4805511811023848 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 386.8112598425197461 Td
+(Calcula correctamente el total de ingresos usando `reduce\(\)`, pero falta implementar la lógica para el producto más) Tj
+T* (vendido y el promedio de venta por transacción. El código es legible pero incompleto.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 351.1380314960630926 Td
+(Actividad 5: Búsqueda y Verificación - Crea un array de usuarios con id, nombre, email, activo. Implementa) Tj
+T* (búsquedas usando find\(\) para buscar usuario por email, findIndex\(\) para obtener posición de usuario por) Tj
+T* (id, some\(\) para verificar si hay usuarios inactivos y every\(\) para verificar si todos tienen email válido) Tj
+T* (\(contiene @\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 300.9687401574803971 Td
+(Archivo esperado: ejercicios/ejercicio_05.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 285.2994488188976447 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 269.6301574803150061 Td
+(Calificación: 3.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 253.9608661417323674 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 238.2915748031497287 Td
+(La solución implementa las funciones find, findIndex, some y every correctamente, pero el email de Carlos no es) Tj
+T* (válido, afectando la prueba de 'every'. Además, la lógica de some debería buscar usuarios INACTIVOS, no activos.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 202.6183464566930752 Td
+(Actividad 6: Manipulación de Arrays - Crea un array inicial [1, 2, 3, 4, 5] y demuestra push\(\) y pop\(\) \(agregar) Tj
+T* (y quitar del final\), shift\(\) y unshift\(\) \(agregar y quitar del inicio\), splice\(\) \(insertar elementos en posición) Tj
+T* (específica\) y slice\(\) \(extraer porción sin modificar original\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 163.9490551181104365 Td
+(Archivo esperado: ejercicios/ejercicio_06.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 148.2797637795277979 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 132.6104724409450455 Td
+(Calificación: 4.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 116.9411811023624068 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 101.2718897637797681 Td
+(El código funciona correctamente y demuestra las operaciones solicitadas. Podrías añadir comentarios explicando) Tj
+T* (cada operación para mejorar la claridad y mostrar el estado del array en cada paso con `console.log`.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+510.2406299212597673 28.3464566929134207 Td
+(Página 2 de 3) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+39.6850393700787407 28.3464566929134207 Td
+(Generado por Sistema de Evaluación IA) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 4769
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 785.1970866141732586 Td
+(Actividad 7: Ordenamiento y Reversión - Crea arrays de números desordenados \(ordena ascendente y) Tj
+T* (descendente\), nombres de personas \(ordena alfabéticamente\), objetos con propiedad edad \(ordena por) Tj
+T* (edad\) y usa reverse\(\) para invertir el orden.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 746.5277952755905062 Td
+(Archivo esperado: ejercicios/ejercicio_07.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 730.8585039370078675 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 715.1892125984252289 Td
+(Calificación: 3.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 699.5199212598424765 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 683.8506299212598378 Td
+(La solución es parcialmente correcta. El ordenamiento de números y strings funciona, pero el ordenamiento de) Tj
+T* (objetos por edad no es el correcto, ya que solo se ordena un array aparte con las edades y no el array original de) Tj
+T* (objetos. Además, falta aplicar `reverse\(\)` a los arrays de números y nombres.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 636.6774015748030706 Td
+(Actividad 8: Desestructuración de Arrays - Dado el array ['JavaScript', 'Python', 'Java', 'C++', 'Go']: extrae) Tj
+T* (los primeros 3 lenguajes, extrae el primero y el último, usa rest operator para separar el primero del resto e) Tj
+T* (intercambia dos variables usando desestructuración.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 598.0081102362204319 Td
+(Archivo esperado: ejercicios/ejercicio_08.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 582.3388188976377933 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 566.6695275590550409 Td
+(Calificación: 5.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 551.0002362204725159 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 535.3309448818897636 Td
+(La solución es correcta y utiliza la desestructuración de arrays de forma efectiva para resolver todos los) Tj
+T* (requerimientos del ejercicio. El código es limpio y fácil de entender.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 499.65771653543311 Td
+(Actividad 9: Desestructuración de Objetos - Crea un objeto persona con propiedades anidadas \(dirección,) Tj
+T* (contacto\). Demuestra desestructuración básica, renombrado de variables, valores por defecto,) Tj
+T* (desestructuración anidada y rest operator en objetos.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 460.9884251968504714 Td
+(Archivo esperado: ejercicios/ejercicio_09.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 445.3191338582677758 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 429.6498425196851372 Td
+(Calificación: 4.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 413.9805511811024417 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 398.311259842519803 Td
+(La desestructuración anidada y el rest operator están bien aplicados. Falta un ejemplo de valores por defecto y) Tj
+T* (algunas variables no se usan después de desestructurar, lo cual resta claridad.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 362.6380314960631495 Td
+(Actividad 10: Métodos de Objeto - Crea un objeto y demuestra Object.keys\(\) \(obtener claves\),) Tj
+T* (Object.values\(\) \(obtener valores\), Object.entries\(\) \(obtener pares clave-valor\) e iterar sobre el objeto con) Tj
+T* (forEach\(\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 323.9687401574803971 Td
+(Archivo esperado: ejercicios/ejercicio_10.js) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 308.2994488188977584 Td
+(Estado: Archivo no encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 292.6301574803151198 Td
+(Calificación: 0.0/5.0) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+39.6850393700787407 268.4569291338584662 Td
+(Resumen General) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 245.1183464566930752 Td
+(Buen trabajo general. Completó 9/10 actividades \(90%\) con una calificación promedio de 3.4/5. Hay oportunidades) Tj
+T* (de mejora en algunos aspectos.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+39.6850393700787407 203.775826771653783 Td
+(Recomendaciones) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 180.437244094488392 Td
+(• Completar los archivos faltantes: ejercicios/ejercicio_10.js) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+510.2406299212597673 28.3464566929134207 Td
+(Página 3 de 3) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+39.6850393700787407 28.3464566929134207 Td
+(Generado por Sistema de Evaluación IA) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 3.0.1)
+/CreationDate (D:20250911141342-05'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000027198 00000 n 
+0000029031 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000016167 00000 n 
+0000016304 00000 n 
+0000022240 00000 n 
+0000022377 00000 n 
+0000027267 00000 n 
+0000027392 00000 n 
+0000027523 00000 n 
+0000027657 00000 n 
+0000027795 00000 n 
+0000027919 00000 n 
+0000028048 00000 n 
+0000028180 00000 n 
+0000028316 00000 n 
+0000028444 00000 n 
+0000028571 00000 n 
+0000028700 00000 n 
+0000028833 00000 n 
+0000028935 00000 n 
+0000029283 00000 n 
+0000029369 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <06CA6F1A24617F1C0B68930F2AB879F7> <06CA6F1A24617F1C0B68930F2AB879F7> ]
+>>
+startxref
+29473
+%%EOF

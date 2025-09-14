@@ -35,10 +35,10 @@
 estructuras-datos-js/
 ├── README.md
 ├── src/
-│   ├── ejercicio1.js
-│   ├── ejercicio2.js
+│   ├── ejercicio_01.js
+│   ├── ejercicio_02.js
 │   ├── ...
-│   └── ejercicio20.js
+│   └── ejercicio_10.js
 └── .gitignore
 ```
 
@@ -47,7 +47,7 @@ estructuras-datos-js/
 ## 🧩 Ejercicios - Estructuras de Datos
 
 ### 1️⃣ Gestión de Inventario Básico
-**Archivo:** `src/ejercicio1.js`  
+**Archivo:** `src/ejercicio_01.js`  
 Crea un array de objetos que represente un inventario de productos. Cada producto debe tener: `id`, `nombre`, `precio`, `categoria`, `stock`.  
 Declara al menos 5 productos y muestra:
 - Todos los productos
@@ -57,7 +57,7 @@ Declara al menos 5 productos y muestra:
 ---
 
 ### 2️⃣ Filtrado de Productos por Categoría
-**Archivo:** `src/ejercicio2.js`  
+**Archivo:** `src/ejercicio_02.js`  
 Usando el inventario del ejercicio anterior, utiliza el método `filter()` para:
 - Mostrar solo productos de la categoría "Electrónicos"
 - Mostrar productos con stock menor a 10
@@ -66,7 +66,7 @@ Usando el inventario del ejercicio anterior, utiliza el método `filter()` para:
 ---
 
 ### 3️⃣ Transformación de Datos con map()
-**Archivo:** `src/ejercicio3.js`  
+**Archivo:** `src/ejercicio_03.js`  
 Crea un array de estudiantes con `nombre`, `edad`, `notas` (array de números).  
 Usa `map()` para:
 - Crear un nuevo array con solo los nombres
@@ -76,7 +76,7 @@ Usa `map()` para:
 ---
 
 ### 4️⃣ Análisis de Ventas con reduce()
-**Archivo:** `src/ejercicio4.js`  
+**Archivo:** `src/ejercicio_04.js`  
 Dado un array de ventas con `producto`, `cantidad`, `precio`, `fecha`:  
 Usa `reduce()` para calcular:
 - Total de ingresos
@@ -86,7 +86,7 @@ Usa `reduce()` para calcular:
 ---
 
 ### 5️⃣ Búsqueda y Verificación
-**Archivo:** `src/ejercicio5.js`  
+**Archivo:** `src/ejercicio_05.js`  
 Crea un array de usuarios con `id`, `nombre`, `email`, `activo`.  
 Implementa búsquedas usando:
 - `find()` para buscar usuario por email
@@ -97,7 +97,7 @@ Implementa búsquedas usando:
 ---
 
 ### 6️⃣ Manipulación de Arrays
-**Archivo:** `src/ejercicio6.js`  
+**Archivo:** `src/ejercicio_06.js`  
 Crea un array inicial `[1, 2, 3, 4, 5]` y demuestra:
 - `push()` y `pop()` - agregar y quitar del final
 - `shift()` y `unshift()` - agregar y quitar del inicio
@@ -107,7 +107,7 @@ Crea un array inicial `[1, 2, 3, 4, 5]` y demuestra:
 ---
 
 ### 7️⃣ Ordenamiento y Reversión
-**Archivo:** `src/ejercicio7.js`  
+**Archivo:** `src/ejercicio_07.js`  
 Crea arrays de:
 - Números desordenados - ordena ascendente y descendente
 - Nombres de personas - ordena alfabéticamente
@@ -117,7 +117,7 @@ Crea arrays de:
 ---
 
 ### 8️⃣ Desestructuración de Arrays
-**Archivo:** `src/ejercicio8.js`  
+**Archivo:** `src/ejercicio_08.js`  
 Dado el array `['JavaScript', 'Python', 'Java', 'C++', 'Go']`:  
 - Extrae los primeros 3 lenguajes
 - Extrae el primero y el último
@@ -127,7 +127,7 @@ Dado el array `['JavaScript', 'Python', 'Java', 'C++', 'Go']`:
 ---
 
 ### 9️⃣ Desestructuración de Objetos
-**Archivo:** `src/ejercicio9.js`  
+**Archivo:** `src/ejercicio_09.js`  
 Crea un objeto `persona` con propiedades anidadas (dirección, contacto).  
 Demuestra:
 - Desestructuración básica
@@ -139,7 +139,7 @@ Demuestra:
 ---
 
 ### 🔟 Métodos de Objeto
-**Archivo:** `src/ejercicio10.js`  
+**Archivo:** `src/ejercicio_10.js`  
 Crea un objeto y demuestra:
 - `Object.keys()` - obtener claves
 - `Object.values()` - obtener valores
